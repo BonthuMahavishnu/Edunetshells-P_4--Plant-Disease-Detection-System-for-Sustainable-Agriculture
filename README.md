@@ -1,1 +1,1 @@
-# P-4-Edunetshells-Plant-Disease-Detection-System-for-Sustainable-Agriculture
+#Edunetshells-Plant-Disease-Detection-System-for-Sustainable-Agriculture
